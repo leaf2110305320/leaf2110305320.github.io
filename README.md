@@ -8,28 +8,28 @@
 ### 作业二：中国地图、世界地图
 描述：“2020全国各省GDP总量分布图”是关于2020年中国各省市GDP总量分布的分级设色图
 
-链接：http://leaf2110305320.github.io/2020全国各省GDP总量分布图.html 
+链接：[http://leaf2110305320.github.io/2020全国各省GDP总量分布图.html](http://leaf2110305320.github.io/2020全国各省GDP总量分布图.html)
 
 描述：“世界地图-一带一路南线”是中国一带一路经济带南线的走向图
 
-链接：http://leaf2110305320.github.io/世界地图——一带一路南线.html
+链接：[http://leaf2110305320.github.io/世界地图——一带一路南线.html](http://leaf2110305320.github.io/世界地图——一带一路南线.html)
 ### 作业三——组合多图
 描述：“中国GDP组合多图”中共包含5幅图片：1982-2020年中美人均GDP对比折线图、2020年全国各省GDP总量占比饼图、1982-2020年中国GDP总量及占世界比例的变化图（柱形图与折线图组合）、2020年世界各国GDP总量排名前50的国家GDP总量及其占世界的比重表、数据精度水球图
 
-链接：http://leaf2110305320.github.io/中国GDP组合多图.html 
+链接：[http://leaf2110305320.github.io/中国GDP组合多图.html](http://leaf2110305320.github.io/中国GDP组合多图.html) 
 ## 第二次作业
 ### 作业一：搜索引擎
 描述：一个bing有相同搜索功能的搜索引擎
 
-链接：http://leaf2110305320.github.io/练习1-搜索引擎.html
+链接：[http://leaf2110305320.github.io/练习1-搜索引擎.html](http://leaf2110305320.github.io/练习1-搜索引擎.html)
 ## 作业二：网页（CCS美化）
 描述：《林黛玉进贾府》原文及赏析
 
-链接：http://leaf2110305320.github.io/练习2-网页（CSS美化）.html 
+链接：[http://leaf2110305320.github.io/练习2-网页（CSS美化）.html](http://leaf2110305320.github.io/练习2-网页（CSS美化）.html)
 ## 作业三：关系图
 描述：“红楼梦主要人物关系图”表现了《红楼梦》中出现次数超过100次的人物的之间的联系及紧密程度
 
-链接：http://leaf2110305320.github.io/红楼梦主要人物关系图.html 
+链接：[http://leaf2110305320.github.io/红楼梦主要人物关系图.html](http://leaf2110305320.github.io/红楼梦主要人物关系图.html) 
 
 
 
